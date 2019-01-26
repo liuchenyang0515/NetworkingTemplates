@@ -1,1 +1,1 @@
-联网模版
+联网模版，json测试数据见jsonDataTest.txt,jsonFormatpicture1.jpg,jsonFormatpicture2.jpg
